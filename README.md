@@ -1,6 +1,7 @@
-# Home-Work
+# Основы Алгоритмитизации и программирования
+## Дрожжин Артем ипо-21.23
 
-## ДЗ:
+## ДЗ версия фреймворка 8.0:
 ### новела - <https://github.com/ArtemIpo21/novela>
 ### массивы - <https://github.com/ArtemIpo21/masivi>
 ### циклы - <https://github.com/ArtemIpo21/Cikli>
