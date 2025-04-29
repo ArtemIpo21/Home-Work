@@ -2,6 +2,7 @@
 ## Дрожжин Артем ипо-21.23
 
 ## ДЗ версия фреймворка 8.0:
+### Простейший калькулятор - <https://github.com/ArtemIpo21/Home-Work/blob/main/calcc.cs>
 ### новела - <https://github.com/ArtemIpo21/novela>
 ### массивы - <https://github.com/ArtemIpo21/masivi>
 ### циклы - <https://github.com/ArtemIpo21/Cikli>
