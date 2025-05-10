@@ -1,7 +1,7 @@
 # Основы Алгоритмитизации и программирования
 ## Дрожжин Артем ипо-21.23
 
-## ДЗ версия фреймворка 8.0:
+## ДЗ версия NET фреймворка 8.0:
 ### UML - <https://github.com/ArtemIpo21/Home-Work/blob/main/UML.docx>
 ### Простейший калькулятор - <https://github.com/ArtemIpo21/Home-Work/blob/main/calcc.cs>
 ### новела - <https://github.com/ArtemIpo21/novela>
@@ -10,3 +10,4 @@
 ### код-ран - <https://github.com/ArtemIpo21/Home-Work/tree/main/coderun>
 ### функции - <https://github.com/ArtemIpo21/def>
 ### крестики - нолики - <https://github.com/ArtemIpo21/Home-Work/blob/main/Крестики-Нолики.cs>
+### угадай число - <https://github.com/ArtemIpo21/Home-Work/blob/main/guess_number.cs>
